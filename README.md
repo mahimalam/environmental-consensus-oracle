@@ -2,6 +2,7 @@
   <h1>Environmental Consensus Oracle</h1>
   <p><b>LLM-Powered Unstructured Data Ingestion Pipeline</b></p>
   
+  [![CI](https://github.com/mahimalam/environmental-consensus-oracle/actions/workflows/ci.yml/badge.svg)](https://github.com/mahimalam/environmental-consensus-oracle/actions/workflows/ci.yml)
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![AI](https://img.shields.io/badge/AI-LLM_Pipeline-yellow?style=for-the-badge)](#)
   [![Architecture](https://img.shields.io/badge/Architecture-Event_Driven-orange?style=for-the-badge)](#)
@@ -84,12 +85,3 @@ pip install -r requirements.txt
 python main.py --daemon --strict-validation
 ```
 
----
-
-### 🔐 Security & Intellectual Property Notice
-*This repository serves as a professional portfolio demonstration of Large Language Model data pipelines and prompt engineering.*
-
-To protect proprietary algorithms:
-- The exact prompt injection techniques, context payloads, and `[PROPRIETARY_LOGIC_REDACTED]` have been stripped.
-- Sensitive API keys (e.g., Gemini, AWS) and EVM integration details have been scrubbed.
-- All structural contexts referring to specific prediction markets or financial events have been abstracted to comply with regulatory requirements.
