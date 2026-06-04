@@ -2,7 +2,7 @@
   <h1>Environmental Consensus Oracle</h1>
   <p><b>LLM-Powered Unstructured Data Ingestion Pipeline</b></p>
   
-  [![CI](https://github.com/mahimalam/environmental-consensus-oracle/actions/workflows/ci.yml/badge.svg)](https://github.com/mahimalam/environmental-consensus-oracle/actions/workflows/ci.yml)
+  [![CI](https://github.com/mahimalam/llm-alert-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/mahimalam/llm-alert-pipeline/actions/workflows/ci.yml)
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![AI](https://img.shields.io/badge/AI-LLM_Pipeline-yellow?style=for-the-badge)](#)
   [![Architecture](https://img.shields.io/badge/Architecture-Event_Driven-orange?style=for-the-badge)](#)
